@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">uWaterloo GooseWatch</string>
+    <string name="about">About</string>
+    <string name="Ok">Ok</string>
+    <string name="tutorialMessage">This is a simple app that shows you the currently known locations of all the geese nest at the University of Waterloo. Simply tap the button to populate the geese nest markers.
+        You can pan and zoom around the map with all the map functionality. Tap on markers for additional detail.
+    </string>
+</resources>

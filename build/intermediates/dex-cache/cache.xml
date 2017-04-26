@@ -2,291 +2,254 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Sajjad\.android\build-cache\1d056e59c6a0c5438c468dc39d3e660346d7fa52\output\jars\classes.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_5fa5b9d5c3e93d10e4715e6bd4e16ee1d76867df\classes.dex" />
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Sajjad\Documents\GitHub\uWaterloo-Goosewatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aa409e1f98f055dfb6ce76e10ba0b557982a16d2\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Sajjad\.android\build-cache\295d4d29a9a7184c162e8e530f03ddb22aa46bfd\output\jars\classes.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-7.8.0_9d27254ab3c91cf1c16b491c680aa26e1449ffb3\classes.dex" />
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf481b2af4d8f89935baf75972976b5681533176">
+        <dex dex="C:\Users\Sajjad\Documents\GitHub\uWaterloo-Goosewatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d30ab09c4bbf5581bf0d269eb44bc23dcbe0c3a\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Sajjad\.android\build-cache\0a728b7f5fb13b6703054d624858deaa0982cf2a\output\jars\classes.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="2e24e5f1b11170163028277de63f709e42525db4">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-7.8.0_39f78943c01de642ecfbc44edd9891732aee839b\classes.dex" />
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Sajjad\Documents\GitHub\uWaterloo-Goosewatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d4544b1d7246b1bd74b1d62faafc2e843815d3c5\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Sajjad\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-7.8.0_156b19b708c9d7481bea927f414018a5dbd6619a\classes.dex" />
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Sajjad\Documents\GitHub\uWaterloo-Goosewatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_219bc0b4e5e7108a06a132b467978eb9c82f7c2e\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Sajjad\.android\build-cache\53ac41e77b1aadb05b1be04ff45972d37d0d7eb7\output\jars\classes.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_d3e846092844d72499d516aade451df6181ebc16\classes.dex" />
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Sajjad\Documents\GitHub\uWaterloo-Goosewatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_36f049d8527f5fe41c2b234f79a53b00bf40c7c7\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Sajjad\.android\build-cache\bce5a8730ec735f1374b3fee2102eb6c2ac3f201\output\jars\classes.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_56f63a78027fdda02546a1a78186f4fb95a5f596\classes.dex" />
+        optimize="true"
+        revision="25.0.0"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\Users\Sajjad\Documents\GitHub\uWaterloo-Goosewatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d4eaedb6bd8b41ebd1e7a01ff88ef833763b2ee8\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Sajjad\.android\build-cache\05533cf031c5d85980c1de958097e049675c70b3\output\jars\classes.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-7.8.0_d7f6a01b3b341c2717f3d91141896ed146583dd7\classes.dex" />
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Sajjad\Documents\GitHub\uWaterloo-Goosewatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7286c75f2425697f5309a4d0074c219c74a53e59\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Sajjad\.android\build-cache\9caafd5eb22f0d8bbf41fb6081ac94bd76c21d88\output\jars\classes.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-7.8.0_403dfc4f9f9c78cee655106b0f19b9c65434f66e\classes.dex" />
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Sajjad\Documents\GitHub\uWaterloo-Goosewatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e14539675ef8475004a720d42585119b2647f531\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        is-multidex="true"
+        jar="C:\Users\Sajjad\.android\build-cache\241ef81bb0736755466a3ee02d89cb1f5f41539e\output\jars\classes.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_add183cceb0154641fb905e24837e8c3e67f23a4\classes.dex" />
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="C:\Users\Sajjad\Documents\GitHub\uWaterloo-Goosewatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a3923498195a0bf33103ad0ea3a54496fc181358\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Sajjad\.android\build-cache\66c91e97e6bb8bca8bc639ca62362698581d57a9\output\jars\classes.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-7.8.0_c962c5b21ff2a9cdd0ff4c73db5d278edb2cf9fa\classes.dex" />
+        optimize="true"
+        revision="25.0.0"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="C:\Users\Sajjad\Documents\GitHub\uWaterloo-Goosewatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f77359ce9795acda5dec5faa8947f84af317866b\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Sajjad\.android\build-cache\580649cfcc109659bd3735ee60816c12762744ab\output\jars\classes.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-7.8.0_5d38332db0b974ea29a4bbb8c852f6e07d9bc7c1\classes.dex" />
+        optimize="true"
+        revision="25.0.0"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="C:\Users\Sajjad\Documents\GitHub\uWaterloo-Goosewatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8a74a7c672d9ce40039b921e77ac144f0d883f33\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Sajjad\.android\build-cache\c256cd73d8e1f28b75b780fdd1052a5c23b4b08f\output\jars\classes.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-22.2.0_7b5228ac632ee46996f95e7ae3d993464d2e3449\classes.dex" />
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Sajjad\Documents\GitHub\uWaterloo-Goosewatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f8ad696921c5eaa0995f32c7f61ab39036a4f36b\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Sajjad\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-7.8.0_51e0330eac8bda960a255c8c844a12afec34d9db\classes.dex" />
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Sajjad\Documents\GitHub\uWaterloo-Goosewatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_e8abcbee26cacfd42caac1bf74c55d3087b346c2\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Sajjad\.android\build-cache\bcb5953658a4ed39a135b31d2bea8510aae9916c\output\jars\classes.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-7.8.0_414dae3fa96209c7496464a3e0be95e2fb111d9d\classes.dex" />
+        optimize="true"
+        revision="25.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\Sajjad\Documents\GitHub\uWaterloo-Goosewatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_331b7c2a524a41b7ffe8a2537b13e0e452c69a20\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Sajjad\Documents\GitHub\uWaterloo-Goosewatch\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.0.0_3cdc8a8a56503411ec287f5d83af3517eca77e15\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_28b51671ed413d19f0a5d183873d181841d51256\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-7.8.0_f7730cac9e6e09a934d00ebf5b3f35acff4f6586\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Sajjad\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_d20c3c05b9026b5c9e1bb95530fa9ab0823b4d5b\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-7.8.0_3b7f507eb641341249e237a9c0b19439cf0b5d95\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_3f3fb00b4890bcd4179f580fa49de0c78e57450c\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Sajjad\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3.1_f53cd24dbe66d21d5f42f559e72f2acdb8e51709\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="1a36cdaad0ffd82b332867ac1b84953c03f4af16">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cf2ca4e8417d4aed8fa19a2f3b0a4675b5abd545\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appstate-7.8.0_ae6089fdf78f0de9b936faf4cd5d7345e35a64ed\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-7.8.0_f3fe2fbf6889bb811bdffb2cf70920cfb0efc7f9\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-7.8.0_01eb754a80b16a78884106c97f2d913af0a95526\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="aadb615f68df717aa13e8426783af07185efaac1">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_32e039cdb858955a6344f14e2c72cf81be1276dd\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-7.8.0_d1d71620e13ed680885ba8fbe20fea403d1692f7\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-7.8.0_f1b7dd16a789163c13f0e6b0dd3de65273474af5\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-7.8.0_0a34d987c8d2bb6751ef2fd0948acf4130716a66\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.0_ed50cb135e8083a4b129ebfeab30e1d5e7a9dd57\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_3cda0aa3d6539f7e8d25272ab078578a79b36e06\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-7.8.0_7dd0a0c35aed608c77fc32c9ed9907f96e55bc31\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_dc45d34dc354fd4c5f4b7ea7b5c7d5e1586c68f4\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_b1ebf2ef9cacf24bef95acd6afd9c044da2833a4\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-7.8.0_0bf34746c06fadd854e43dc3ac7cc2a4e3fe8dcd\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_726e6847c4efa1275ab579d0f6029b41497f0c65\classes.dex" />
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf13c5229bf7b8a6c8b650720a098392ca218477">
+        <dex dex="C:\Users\Sajjad\Documents\GitHub\uWaterloo-Goosewatch\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_667965682c1443d4dd4884bad9e44ffae48c8c4f\classes.dex" />
     </item>
     <item
         jar="C:\Users\Sajjad\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
         jumboMode="true"
+        optimize="true"
         revision="24.0.0"
         sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_66639cbf61d3e3429f32805c53341ef21de726be\classes.dex" />
+        <dex dex="C:\Users\Sajjad\Documents\GitHub\uWaterloo-Goosewatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_66639cbf61d3e3429f32805c53341ef21de726be\classes.dex" />
     </item>
     <item
         jar="C:\Users\Sajjad\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
         jumboMode="true"
+        optimize="true"
         revision="24.0.0"
         sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.5.0_54bbac42f8190d39c05dfe5bf829068506fe7f92\classes.dex" />
+        <dex dex="C:\Users\Sajjad\Documents\GitHub\uWaterloo-Goosewatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.5.0_54bbac42f8190d39c05dfe5bf829068506fe7f92\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Sajjad\.android\build-cache\547565e4d0bae7806748e71a1b9a65f93bcd0671\output\jars\classes.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-7.8.0_ea0e01814af453f8eb600d2f2f658a21e9ffd930\classes.dex" />
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Sajjad\Documents\GitHub\uWaterloo-Goosewatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_be6ebdce130c7d4ec1cb38869704832b8407a0c3\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Sajjad\.android\build-cache\58d422779c048d2f358b7ead2020ff57d4849f6a\output\jars\classes.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_a0601a01761c76a540df19b1179fcf1341c4750a\classes.dex" />
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Sajjad\Documents\GitHub\uWaterloo-Goosewatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_65a0122aa1add65cb2915a3899de6c124c9045f4\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Sajjad\.android\build-cache\9c4d448fbd10dcddf515c289b9c6833507422b28\output\jars\classes.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
-        <dex dex="C:\Users\Sajjad\Documents\GitHub\Bootcamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-7.8.0_fd32bc054520f9508fb780f1dd4dde07ec45756d\classes.dex" />
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Sajjad\Documents\GitHub\uWaterloo-Goosewatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1bb861ba4e13b0572ba8f6d91e5bcbbf5dbf7edc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sajjad\.android\build-cache\f2f61ea0ec568d48cde308772f3c331c12815ca8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Sajjad\Documents\GitHub\uWaterloo-Goosewatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_93c13ec938454f68e36ac6784d9d7826aa47a7d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sajjad\.android\build-cache\0d90706d8af00828e11cc95cafcb91640944355d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Sajjad\Documents\GitHub\uWaterloo-Goosewatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a9f54c17923acfc9e962f173dd8bd7cc843035be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sajjad\.android\build-cache\5dc1238754a6c12df6f9db80b6ec9d46aa67f295\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="C:\Users\Sajjad\Documents\GitHub\uWaterloo-Goosewatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d97f084f4bfa655d8bfea90c2769fc97d2c16d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sajjad\.android\build-cache\1a6734182ba977de76b7469a1c5f2973ea1b817c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Sajjad\Documents\GitHub\uWaterloo-Goosewatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad032a825c2322377905c024105aba54543d6559\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sajjad\.android\build-cache\db5d1b513dfed15a9c1dde5a70d7a2bc4f2004a9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379a48c2da13ffb7ec7134f2c715663834357670">
+        <dex dex="C:\Users\Sajjad\Documents\GitHub\uWaterloo-Goosewatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_009391fdbcc57d488bb98b0ed3b1fe1a726e81de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sajjad\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\Sajjad\Documents\GitHub\uWaterloo-Goosewatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.5.0_54bbac42f8190d39c05dfe5bf829068506fe7f92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sajjad\Documents\GitHub\uWaterloo-Goosewatch\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Sajjad\Documents\GitHub\uWaterloo-Goosewatch\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7c34767222fde5b4b51e1edecf0fcd7692b65366\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sajjad\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Sajjad\Documents\GitHub\uWaterloo-Goosewatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_66639cbf61d3e3429f32805c53341ef21de726be\classes.dex" />
     </item>
 
 </items>

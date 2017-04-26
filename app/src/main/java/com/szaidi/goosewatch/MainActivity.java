@@ -201,9 +201,6 @@ public class MainActivity extends AppCompatActivity {
             }).show();
             return true;
         }
-        if (id == R.id.settings) {
-            //TODO SZ: put in Settings page
-        }
 
         return super.onOptionsItemSelected(item);
     }
